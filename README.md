@@ -25,3 +25,7 @@ Here on GitHub, you’ll find repositories showcasing my journey in:
 
 ## Fun Fact
 I’m a huge fan of **La Mona Lisa**, not just because she’s iconic but because of the legacy tied to her name. I like to think that, like her, I bring a bit of uniqueness to everything I do.
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giocondaprada91&layout=compact)
+
